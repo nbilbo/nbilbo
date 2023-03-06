@@ -23,8 +23,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="ansi c" alt="ansi c" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   </div>
-  
+  <!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbilbo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+  -->
   :anchor: <a href="https://nbilbo.github.io/" target="blank_">Portfólio</a>
 </div>
