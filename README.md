@@ -7,6 +7,12 @@
     <a href="https://www.youtube.com/@noceunaotempao5822/">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/lipe-morais/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    </a>
+      <a href="https://nbilbo.github.io/">
+      <img src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=Cliqz&logoColor=white" alt="Linkedin Badge"/>
+    </a>
   </div>
    
 
@@ -15,16 +21,5 @@
   
   # Felipe Morais
   
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="Html5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="ansi c" alt="ansi c" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  </div>
-  <!--
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbilbo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  -->
-  :anchor: <a href="https://nbilbo.github.io/" target="blank_">Portfólio</a>
+  <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbilbo&layout=compact&theme=buefy&hide_border=true&hide_title=true">
 </div>
