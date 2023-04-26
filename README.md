@@ -20,6 +20,7 @@
 <div align="center">
   
   # Felipe Morais
-  
+  <!--
   <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbilbo&layout=compact&theme=buefy&hide_border=true&hide_title=true">
+  -->
 </div>
